@@ -1,0 +1,34 @@
+# API keys (use config.example.py as the template)
+config.py
+.env
+.env.*
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+.pytest_cache/
+
+# Output (generated files, not source)
+output/
+data/intel/*.json
+data/jobs.json
+data/tracking.json
+
+# Test scripts (kept in git history for reference; runtime artefacts not committed)
+test_retry_loop.py
+test_full_pipeline_brix.py
+test_agent_b_v2_brix.py
+test_agent_c_v2_brix.py
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
+*.swp

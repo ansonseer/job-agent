@@ -1,0 +1,45 @@
+Full-Stack Developer (Agentic) - brix
+
+Most dev roles teach you how things were built. This one teaches you how they're being built right now.
+
+brix is a fast-growing Australian SaaS platform built for the trades industry. We help HVAC and trade businesses quote faster, close more jobs, and grow smarter. Our product is live, it's in the hands of real technicians, and it's working — same 12 techs, 6 months, $2.16M more revenue. One thing changed. How they quoted.
+
+We're building the future in Australian trades sales, powered by AI systems to help the trade industry grow stronger.
+
+The Stack:
+- Frontend: ReactJS / Next.js & Material-UI (MUI)
+- Backend: Golang
+- Database: MySQL 8
+- Dev Workflow: Agent-centric — Claude Code, Cursor, Codex, Automated Agentic Pipelines
+
+What You'll Actually Do:
+Own agentic feature delivery. Claude Code and agentic CLI tools are your primary instruments. You scaffold, iterate, and debug Next.js components and Golang services — with AI doing the grunt work and you making the calls on what ships.
+
+Be the pilot, not the passenger. AI agents generate the code. You review it for security, performance, and quality. If it's rubbish, you say so and fix it. That judgment is the job.
+
+Turn Figma into product. You take designs and orchestrate agents to build high-fidelity, accessible MUI components. Fast. Clean. Production-ready.
+
+Build APIs that agents can actually use. Our Golang APIs need to be structured, self-documenting (OpenAPI/Swagger), and clean enough for both frontend devs and AI agents to consume without guesswork.
+
+Debug without the manual torture. You'll use agentic workflows to automate regression testing and root-cause production bugs — not spend your Friday night stepping through logs.
+
+Make the agent-stack smarter. Help us find new ways to automate the boilerplate that wastes engineering time. If you find a better way, we'll ship it.
+
+Who We're Looking For - Graduate Developer:
+You've finished your degree or you're in your final year. You haven't had years of production experience — but you've been building things on your own time. You know React. You understand how a REST API works. You've started experimenting with Claude Code or Cursor and it clicked for you. You're not waiting to be told what to do.
+
+What we need to see:
+- Degree in Computer Science or a related field (completed or near-complete)
+- Solid React and TypeScript fundamentals
+- At least one project you built and shipped — doesn't matter how small
+- Genuine curiosity about agentic development, not just awareness of it
+- Clear, precise communication — in writing and in code
+
+How to Apply - Send us three things:
+1. Your GitHub (or anything you've actually built — a link, a repo, a demo)
+2. Two sentences on what drew you to agentic development
+3. One thing you'd want to build at brix if you started tomorrow
+
+Email: hello@brixco.io
+Website: brixco.io
+Location: Alexandria (NSW), on-site, not remote
